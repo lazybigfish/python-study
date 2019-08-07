@@ -3,6 +3,8 @@
 #单页版本
 import requests
 
+import openpyxl
+
 # url = 'https://c.y.qq.com/soso/fcgi-bin/client_search_cp?ct=24&qqmusic_ver=1298&new_json=1&remoteplace=txt.yqq.song&searchid=56802170905668863&t=0&aggr=1&cr=1&catZhida=1&lossless=0&flag_qc=0&p=1&n=10&w=%E5%91%A8%E6%9D%B0%E4%BC%A6&g_tk=467115783&loginUin=1435311604&hostUin=0&format=json&inCharset=utf8&outCharset=utf-8&notice=0&platform=yqq.json&needNewCode=0'
 # #以上地址在浏览器f12中，寻找network的xhr选项，找到搜索的数据的header，并找到其中的general的request URL地址
 # res_music = requests.get(url)
@@ -24,6 +26,16 @@ import requests
 
 
 #多页版本
+
+wb = openpyxl.Workbook()
+
+sheet = wb.active
+
+sheet.title = 'song-jay'
+
+sheet['A1'] = '歌曲名'
+sheet['B1'] = '专辑'
+sheet['C1'] = '时长'
 
 url = 'https://c.y.qq.com/soso/fcgi-bin/client_search_cp'
 
@@ -65,6 +77,14 @@ for x in range(5):
     # print(songer_list)
 
     for music in songers_list:
-        print('第%s页'%(x +1))
-        print('歌曲名：',music['name'])
-        print('专辑名称：',music['album']['name'])
+
+        name = music['name']
+        album = music['album']['name']
+        time = music['interval']
+        # print('第%s页'%(x +1))
+        # print('歌曲名：',music['name'])
+        # print('专辑名称：',music['album']['name'])
+
+        sheet.append([name,album,time])
+
+wb.save('Jay.xlsx')
