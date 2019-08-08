@@ -37,6 +37,8 @@ sheet['A1'] = '歌曲名'
 sheet['B1'] = '专辑'
 sheet['C1'] = '时长'
 
+
+headers = {'user-agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'}
 url = 'https://c.y.qq.com/soso/fcgi-bin/client_search_cp'
 
 for x in range(5):
@@ -68,7 +70,7 @@ for x in range(5):
     }
     # 该参数封装为字典后续重复调用，达成翻页效果
 
-    res = requests.get(url,params = params)
+    res = requests.get(url,headers = headers,params = params)
 
     songer_list = res.json()
 
