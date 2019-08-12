@@ -1,5 +1,8 @@
 import requests,json
 
+#关于自动登陆评论的事情
+
+
 session = requests.session()
 #建立会话
 
