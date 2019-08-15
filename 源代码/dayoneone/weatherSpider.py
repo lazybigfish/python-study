@@ -14,20 +14,23 @@ addressee = input('输入收件邮箱：')
 #抓取数据的函数并分析出结果
 def weather_spider():
     headers = {'user-agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'}
+    #构建浏览器伪装标示
     url = 'http://www.weather.com.cn/weather/101240901.shtml'
+    #输入抓取的网址
     res = requests.get(url,headers = headers)
     #获取数据
     res.encoding = 'utf-8'
+    #因为编码问题，重新编码
 
-    # day = []
-    # tem = []
-    # wea = []
-    # win = []
     seven_Day = []
+    #新建一个数据存放抓取出来的初始数据值
 
     soup = BeautifulSoup(res.text,'html.parser')
+    #转换为bs对象
     weatherDatas = soup.find('div', class_='c7d').find('ul').find_all('li')
+    #通过find方法，逐层找到关键信息
 
+    #通过遍历将细节信息存放至seven_day
     for weatherData in weatherDatas:
         day = weatherData.find('h1')
         tem = weatherData.find(class_='tem')
@@ -37,14 +40,7 @@ def weather_spider():
         seven_Day_data = [day.text,tem.text[1:-1],wea.text]
         seven_Day.append(seven_Day_data)
 
-
-    # temple_data = weatherData.find(class_='tem')
-    # weather_data = weatherData.find(class_='wea')
-
-    # temple = temple_data.text
-    # weather = weather_data.text
-    #
-    # return temple,weather
+    #生成正式的七天天气信息数组
     weather_message = []
     for i in range(0,7):
 
@@ -58,20 +54,33 @@ def send_email(seven_Day):
 
 
     global account,password,addressee
+    #全局化三个参数
 
     mailhost = 'smtp.yeah.net'
+    #设置邮箱host
     server = smtplib.SMTP()
+    #新启一个邮箱服务
     server.connect(mailhost,25)
+    #通过服务连接邮箱
     server.login(account,password)
+    #通过服务登陆邮箱
     content = '最近的天气是：'+'\n'+seven_Day[0]+'\n'+seven_Day[1]+'\n'+seven_Day[2]+'\n'+seven_Day[3]+'\n'+seven_Day[4]+'\n'+seven_Day[5]+'\n'+seven_Day[6]
+    #设置需要发送的文本信息模板
     message = MIMEText(content,'plain','utf-8')
+    #设置需要发送的文本信息
     subject = '天气预报'
+    #设置邮件标题
     message['Subject'] = Header(subject,'utf-8')
+    message['From'] = Header(account)
+    message['To'] = Header(addressee)
+
+    server.set_debuglevel(1)
     try:
         server.sendmail(account,addressee,message.as_string())
         print('发送成功!')
     except:
         print('errow!')
+
 
     server.quit()
 
