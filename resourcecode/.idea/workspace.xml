@@ -2,16 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcef3906-bfda-4ae6-af6c-ed7f29da4856" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/bugbugfily/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythondraw/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythondraw/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythondraw/.idea/pythondraw.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythondraw/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythondraw/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythondraw/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythondraw/DayDayUo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythondraw/Pythondraw.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythondraw/email.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythondraw/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/.idea/pythondraw.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/DayDayUo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/Pythondraw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/.idea/dayoneone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/Jay.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/Marvel.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/WorkList/WorkList.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/WorkList/WorkList/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/WorkList/WorkList/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/WorkList/WorkList/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/WorkList/WorkList/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/WorkList/WorkList/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/WorkList/WorkList/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/WorkList/WorkList/spiders/jobiu_jbos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/WorkList/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/WorkList/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/auto_web.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/book_list/book_list/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/book_list/book_list/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/book_list/book_list/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/book_list/book_list/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/book_list/book_list/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/book_list/book_list/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/book_list/book_list/spiders/top250.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/book_list/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/book_list/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/demon.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/get_book_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/get_food_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/get_jay_music_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/get_save_jay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/gevent_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/saveData.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/save_cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/seven.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/spider_food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/spider_one.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/testcopy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayoneone/weatherSpider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/automat-visualize" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/cftp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/chardetect" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/ckeygen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/conch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/easy_install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/easy_install-3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/flask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/mailmail" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/pip3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/pip3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/pyhtmlizer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/pyspider" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/python3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/scrapy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/tkconch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/trial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/twist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/twistd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/bin/wsgidav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/include/site/python3.7/greenlet/greenlet.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/pip-selfcheck.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/COPYING-LGPL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/COPYING-MIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/INSTALL.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/README.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/RELEASE-NOTES.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/basicfirst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/file_upload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/linksys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/opensocketexception.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/file_upload_buffer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/file_upload_real.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/file_upload_real_fancy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/follow_redirect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/form_post.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/get.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/get_python2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/get_python2_https.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/get_python3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/get_python3_https.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/put_buffer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/put_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/response_headers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/response_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/quickstart/write_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/retriever-multi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/retriever.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/sfquery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/smtp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/ssh_keyfunction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/dayonone/dayoneone/share/doc/pycurl/examples/xmlrpc_curl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../源代码/main.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,15 +194,18 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-681844357">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bugbugfily/test1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -137,11 +241,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="506" />
-    <option name="y" value="52" />
-    <option name="width" value="737" />
-    <option name="height" value="683" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="710" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -170,22 +273,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="源代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="源代码" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="源代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="源代码" type="462c0819:PsiDirectoryNode" />
-              <item name="bugbugfily" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="源代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="源代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (pythondraw) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="resourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resourcecode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,9 +315,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/dayonone/dayoneone/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -248,9 +337,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/dayonone/dayoneone/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -270,9 +359,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/dayonone/dayoneone/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -292,9 +381,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/dayonone/dayoneone/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -347,10 +436,9 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="710" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12600969" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1276252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="检验" visible="true" weight="0.31553397" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -368,6 +456,7 @@
       <window_info anchor="bottom" id="Python Console" order="14" weight="0.3181049" />
       <window_info anchor="bottom" id="找到" order="15" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="16" weight="0.32993197" />
+      <window_info anchor="bottom" id="检验" order="17" visible="true" weight="0.31553397" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -452,12 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1563500955174" expanded="true" signature="1808:2193" ph="..." />
-            <marker date="1563500955174" expanded="true" signature="2207:4192" ph="..." />
-            <marker date="1563500955174" expanded="true" signature="4192:4211" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -465,15 +548,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bugbugfily/test1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bugbugfily/test1.py" />
   </component>
   <component name="masterDetails">
     <states>
