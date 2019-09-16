@@ -1,4 +1,4 @@
-from die import Die
+from die.die import Die
 import pygal
 
 """"新建一个实例"""
