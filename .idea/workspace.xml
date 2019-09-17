@@ -9,7 +9,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/matplotlib/python_repos/python_repos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,6 +30,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LS</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +46,7 @@
         <option value="$PROJECT_DIR$/matplotlib/die.py" />
         <option value="$PROJECT_DIR$/matplotlib/die_visual.py" />
         <option value="$PROJECT_DIR$/matplotlib/btc_close/btc_close_2017.py" />
+        <option value="$PROJECT_DIR$/matplotlib/python_repos/python_repos.py" />
       </list>
     </option>
   </component>
@@ -59,12 +78,7 @@
               <item name="StudyBooks" type="b2602c69:ProjectViewProjectNode" />
               <item name="StudyBooks" type="462c0819:PsiDirectoryNode" />
               <item name="matplotlib" type="462c0819:PsiDirectoryNode" />
-              <item name="btc_close" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyBooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyBooks" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonGame" type="462c0819:PsiDirectoryNode" />
+              <item name="python_repos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -90,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.btc_close_2017">
+  <component name="RunManager" selected="Python.python_repos">
     <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="StudyBooks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,6 +171,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="python_repos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StudyBooks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib/python_repos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib/python_repos/python_repos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="rw_visual" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="StudyBooks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,6 +217,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.python_repos" />
         <item itemvalue="Python.btc_close_2017" />
         <item itemvalue="Python.die_visual" />
         <item itemvalue="Python.alien_invasion" />
@@ -205,16 +242,17 @@
       <workItem from="1568698655377" duration="58000" />
       <workItem from="1568698739750" duration="356000" />
       <workItem from="1568706608599" duration="5640000" />
+      <workItem from="1568718443192" duration="1558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10937000" />
+    <option name="totallyTimeSpent" value="12495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23136246" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23457584" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -244,6 +282,7 @@
     <SUITE FILE_PATH="coverage/StudyBooks$btc_close_2017.coverage" NAME="btc_close_2017 Coverage Results" MODIFIED="1568713170375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/btc_close" />
     <SUITE FILE_PATH="coverage/StudyBooks$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1568605945749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
     <SUITE FILE_PATH="coverage/StudyBooks$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1568618641281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonGame" />
+    <SUITE FILE_PATH="coverage/StudyBooks$python_repos.coverage" NAME="python_repos Coverage Results" MODIFIED="1568719827164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/python_repos" />
     <SUITE FILE_PATH="coverage/StudyBooks$die_visual.coverage" NAME="die_visual Coverage Results" MODIFIED="1568631404879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib" />
   </component>
   <component name="editorHistoryManager">
@@ -301,6 +340,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib/python_repos/python_repos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
