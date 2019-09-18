@@ -8,11 +8,17 @@ response_dict = r.json()
 print(response_dict['total_count'])
 repo_dicts = response_dict['items']
 """"遍历存储可视化的数据"""
-names,owners,starts = [],[],[]
+names,plot_dicts = [],[]
 for repo_dict in repo_dicts:
     names.append(repo_dict['name'])
-    owners.append(repo_dict['owner']['login'])
-    starts.append(repo_dict['stargazers_count'])
+    # owners.append(repo_dict['owner']['login'])
+    # starts.append(repo_dict['stargazers_count'])
+    #建立一个集合装标签详细信息
+    plot_dict = {
+        'value':repo_dict['stargazers_count'],
+        'label':str(repo_dict['description']),
+    }
+    plot_dicts.append(plot_dict)
     # print('Repository:',repo_dict['html_url'])
 
 """"开始可视化"""
@@ -41,5 +47,5 @@ chart.title = 'Mosr-Startrred Python Project On GitHub'
 #x轴标签
 chart.x_labels=names
 #添加数据
-chart.add('',starts)
-chart.render_to_file('pythin_repos.svg')
+chart.add('',plot_dicts)
+chart.render_to_file('pythin_repos1.svg')
