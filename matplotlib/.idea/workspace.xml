@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06476e23-a30f-47d2-9c61-528c15e0637a" name="默认的" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/python_repos/bar_descriptions.py" afterDir="false" />
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_repos/python_repos.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_repos/python_repos.py" afterDir="false" />
     </list>
@@ -14,7 +18,9 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/matplotlib$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1568640728988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/matplotlib$scatter_squares.coverage" NAME="scatter_squares Coverage Results" MODIFIED="1568533996997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/matplotlib$python_repos.coverage" NAME="python_repos Coverage Results" MODIFIED="1568730802237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_repos" />
     <SUITE FILE_PATH="coverage/matplotlib$highs_lows.coverage" NAME="highs_lows Coverage Results" MODIFIED="1568644209059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/highs_lows" />
+    <SUITE FILE_PATH="coverage/matplotlib$bar_descriptions.coverage" NAME="bar_descriptions Coverage Results" MODIFIED="1568731586594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_repos" />
     <SUITE FILE_PATH="coverage/matplotlib$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1568456638501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -31,35 +37,71 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="py" value="6" />
+=======
+          <entry key="py" value="7" />
+          <entry key="svg" value="2" />
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="Python" value="6" />
+=======
+          <entry key="Python" value="7" />
+          <entry key="SVG" value="2" />
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="py" value="2971" />
+=======
+          <entry key="py" value="3295" />
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="Python" value="2971" />
+=======
+          <entry key="Python" value="3295" />
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_repos/python_repos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/python_repos/python_repos.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="478">
               <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/python_repos/bar_descriptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
               </folding>
             </state>
           </provider>
@@ -86,6 +128,10 @@
         <option value="$PROJECT_DIR$/rw_visual.py" />
         <option value="$PROJECT_DIR$/highs_lows/highs_lows.py" />
         <option value="$PROJECT_DIR$/python_repos/python_repos.py" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/python_repos/bar_descriptions.py" />
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
       </list>
     </option>
   </component>
@@ -101,8 +147,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="743" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="268" />
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="710" />
@@ -179,7 +230,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.highs_lows">
+  <component name="RunManager" selected="Python.bar_descriptions">
+    <configuration name="bar_descriptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="matplotlib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_repos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_repos/bar_descriptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="highs_lows" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="matplotlib" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mpl_squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="python_repos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="matplotlib" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,12 +283,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_repos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.0/mpl_squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_repos/python_repos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,17 +342,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.mpl_squares" />
       <item itemvalue="Python.scatter_squares" />
       <item itemvalue="Python.rw_visual" />
       <item itemvalue="Python.highs_lows" />
+      <item itemvalue="Python.python_repos" />
+      <item itemvalue="Python.bar_descriptions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bar_descriptions" />
+        <item itemvalue="Python.python_repos" />
         <item itemvalue="Python.highs_lows" />
         <item itemvalue="Python.rw_visual" />
         <item itemvalue="Python.scatter_squares" />
-        <item itemvalue="Python.mpl_squares" />
       </list>
     </recent_temporary>
   </component>
@@ -297,10 +372,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="743" y="23" width="1280" height="710" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11470113" />
+=======
+    <frame x="0" y="23" width="1280" height="710" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19063005" />
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -370,12 +452,34 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/python_repos/python_repos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/python_repos/pythin_repo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_repos/pythin_repos.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_repos/python_repos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_repos/bar_descriptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
           </folding>
         </state>
       </provider>
