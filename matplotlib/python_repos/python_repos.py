@@ -47,5 +47,10 @@ chart.title = 'Mosr-Startrred Python Project On GitHub'
 #x轴标签
 chart.x_labels=names
 #添加数据
+<<<<<<< HEAD
+chart.add('',starts)
+chart.render_to_file('pythin_repos.svg')
+=======
 chart.add('',plot_dicts)
 chart.render_to_file('pythin_repos1.svg')
+>>>>>>> e8933ba839a834a8378bc4b04b175f0af1b962d3
